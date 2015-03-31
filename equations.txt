@@ -1,0 +1,2 @@
+The equations to be implemented:
+------------------------------------------
